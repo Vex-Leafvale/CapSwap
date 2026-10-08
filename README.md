@@ -12,6 +12,10 @@ CapSwap is a free panel for Adobe Premiere Pro on Windows. It turns your caption
 
 Each release lists the SHA-256 of the signed `.zxp`. The installer checks it before installing.
 
+CapSwap never checks for updates by itself (it makes no internet connections). To hear about new versions, click **Watch → Custom → Releases** at the top of this page, or follow [Ko-fi](https://ko-fi.com/vex26).
+
+If Windows shows a security warning when you run the installer (for example "Windows protected your PC"), choose **More info → Run anyway**, or **Run**. Windows warns about scripts downloaded from the internet; the installer itself verifies the package before installing.
+
 ## What it does
 
 - **Captions → graphic captions in one batch.** Reads the text and start and end times straight from your sequence's caption track and places them with your MOGRT. You don't need to export an SRT or fix time offsets. SRT files work too.
