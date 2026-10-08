@@ -1,0 +1,6 @@
+# Release files are attached to GitHub Releases, never committed.
+*.zip
+*.zxp
+*.sha256
+# Staging area written by the main repo's scripts/sync-release-repo.ps1.
+upload/
