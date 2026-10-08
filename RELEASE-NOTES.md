@@ -2,7 +2,7 @@
 
 [한국어](RELEASE-NOTES.ko.md)
 
-## 0.7.3 — First public alpha (2026-10-08)
+## 0.7.4 — First public alpha (2026-10-08)
 
 **Keep the words and timing, swap the caption design.** CapSwap is a Windows panel for Premiere Pro that turns captions and graphic captions into the Motion Graphics template (MOGRT) of your choice. This is the first public alpha.
 
@@ -29,7 +29,7 @@
 
 ### Install
 
-1. Extract `CapSwap-0.7.3-windows.zip` and close Premiere Pro.
+1. Extract `CapSwap-0.7.4-windows.zip` and close Premiere Pro.
 2. Double-click `Install-CapSwap.cmd`. No administrator rights are needed.
 3. In Premiere Pro, open **Window → Extensions → CapSwap**.
 

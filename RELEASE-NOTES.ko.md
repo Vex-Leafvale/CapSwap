@@ -2,7 +2,7 @@
 
 [English](RELEASE-NOTES.md)
 
-## 0.7.3 — 첫 공개 알파 (2026-10-08)
+## 0.7.4 — 첫 공개 알파 (2026-10-08)
 
 **문구와 타이밍은 그대로, 자막 디자인만 교체.** CapSwap은 Premiere Pro의 캡션과 그래픽 자막을 원하는 모션 그래픽 템플릿(MOGRT)으로 바꿔 주는 Windows용 패널입니다. 처음 공개하는 알파 버전입니다.
 
@@ -29,7 +29,7 @@
 
 ### 설치
 
-1. `CapSwap-0.7.3-windows.zip`의 압축을 풀고 Premiere를 종료합니다.
+1. `CapSwap-0.7.4-windows.zip`의 압축을 풀고 Premiere를 종료합니다.
 2. `Install-CapSwap.cmd`를 더블클릭합니다. 관리자 권한은 필요 없습니다.
 3. Premiere에서 **창 → 확장 → CapSwap**을 엽니다.
 

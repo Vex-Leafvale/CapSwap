@@ -45,7 +45,7 @@ If Windows shows a security warning when you run the installer (for example "Win
 
 To remove CapSwap, run `Install-CapSwap.cmd uninstall` from a command prompt. Your settings are kept.
 
-The installer checks that Premiere is closed and verifies the package checksum and signature. It backs up any existing install before replacing it, and it does not touch the registry.
+The installer checks that Premiere is closed and verifies the package checksum and signature. It backs up any existing install before replacing it (keeping only the newest backup), and it does not touch the registry.
 
 ## Quick start
 
