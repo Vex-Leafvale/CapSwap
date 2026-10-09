@@ -2,6 +2,13 @@
 
 [한국어](RELEASE-NOTES.ko.md)
 
+## 0.8.0 (2026-10-10)
+
+- **Templates with several text styles now work.** Templates made in Premiere whose text mixes styles used to stop with "several style runs are not supported". The first time a layout appears, CapSwap asks once whether its styled text is a speaker label (`Name | `, `Janeㅣ`) and remembers the answer for every template shaped the same way. Label layouts keep the label and put each caption in the body style; others put the whole caption in the body style. Premiere's older built-in templates are covered too.
+- **Label templates swap into each other.** A caption made with a speaker-label template swaps to another with the body kept and the label converted (`John | body` → `Janeㅣbody`), or to a plain template with the body only, without asking.
+- **Steadier template browser.** The browser keeps its size when a search finds nothing, so the buttons no longer jump, and cards no longer shift when a scrollbar appears. Scrollbars are thin and match the panel.
+- **Reset saved choices.** The new ⚙ button next to the language menu resets what CapSwap remembered per template (it asks again next time) or all settings. The previous settings are kept as `settings.backup.json`.
+
 ## 0.7.4 — First public alpha (2026-10-08)
 
 **Keep the words and timing, swap the caption design.** CapSwap is a Windows panel for Premiere Pro that turns captions and graphic captions into the Motion Graphics template (MOGRT) of your choice. This is the first public alpha.
