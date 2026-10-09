@@ -22,6 +22,7 @@ If Windows shows a security warning when you run the installer (for example "Win
 - **Swap the template of selected captions.** Select graphic captions on the timeline and pick another MOGRT. CapSwap keeps the current text, timing, video track and enabled state.
 - **Swap with the last template now.** Applies the last successful swap template again with one click.
 - **Template browser.** Lets you browse local MOGRTs by thumbnail, with search, folders, favorites and recent picks.
+- **Templates with mixed styles.** Templates whose text has a fixed speaker label (`Name | `) styled apart from the body keep the label and put each caption in the body style. CapSwap asks once per template.
 - **English and Korean.** Follows Premiere's language automatically; you can switch it in the panel.
 
 ## Built to be safe
