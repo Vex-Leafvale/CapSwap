@@ -2,6 +2,10 @@
 
 [한국어](RELEASE-NOTES.ko.md)
 
+## 0.8.1
+
+- **Favorites at a click.** A star button next to the template browser's search box shows only your favorites; click it again to see everything. It stays in step with the Favorites filter, and the browser remembers it the next time it opens.
+
 ## 0.8.0 (2026-10-10)
 
 - **Templates with several text styles now work.** Templates made in Premiere whose text mixes styles used to stop with "several style runs are not supported". The first time a layout appears, CapSwap asks once whether its styled text is a speaker label (`Name | `, `Janeㅣ`) and remembers the answer for every template shaped the same way. Label layouts keep the label and put each caption in the body style; others put the whole caption in the body style. Premiere's older built-in templates are covered too.
