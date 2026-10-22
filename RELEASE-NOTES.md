@@ -2,6 +2,10 @@
 
 [한국어](RELEASE-NOTES.ko.md)
 
+## 0.9.0
+
+- **Fit captions to your cuts.** Pick a cut reference track when generating: each caption starts at the nearest cut start and ends at the nearest cut end, and a caption crossing a cut is split into one graphic per shot. No more captions flashing a few frames past a cut.
+
 ## 0.8.1
 
 - **Favorites at a click.** A star button next to the template browser's search box shows only your favorites; click it again to see everything. It stays in step with the Favorites filter, and the browser remembers it the next time it opens.

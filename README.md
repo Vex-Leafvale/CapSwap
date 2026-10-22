@@ -23,6 +23,7 @@ If Windows shows a security warning when you run the installer (for example "Win
 - **Swap with the last template now.** Applies the last successful swap template again with one click.
 - **Template browser.** Lets you browse local MOGRTs by thumbnail, with search, folders, favorites and recent picks.
 - **Speaker-label templates.** Templates with a styled speaker label (`Name | `, `Janeㅣ`) keep the label and put each caption in the body style. CapSwap asks once per template layout and remembers it; swapping between label templates converts the label and keeps the body.
+- **Fit to your cuts.** Pick a cut reference track and generated captions start and end on its cuts; a caption crossing a cut is split into one graphic per shot.
 - **English and Korean.** Follows Premiere's language automatically; you can switch it in the panel.
 
 ## Built to be safe
